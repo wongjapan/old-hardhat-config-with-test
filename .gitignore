@@ -1,0 +1,16 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+helper
+
+*.notes
+
+#Hardhat files
+cache
+artifacts
+
+# I dont want to track this
+# contracts/Bridge.sol
+# scripts/deployBridge.js
